@@ -2,7 +2,7 @@
 Picture tells more than thousand characters (if the size of the picture is more than thousand pixels)
 
 
-This program is a small python script intended to run on terminal that takes a picture and outputs an ASCII version of that picture. The colors in the final picture is 128 bit colors.
+This program is a small python script intended to run on terminal that takes a picture and outputs an ASCII version of that picture. The colors in the final picture are 128 bit colors.
 
 Download the program folder, move the image you want to convert to the same folder and run the python script in terminal with the name of the image you want to convert as the first argument.
 The program takes one or two arguments: the name of the picture file and the width of the final image in characters. The width is 83 characters by default.
